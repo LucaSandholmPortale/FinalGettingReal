@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingReal", "GettingReal\GettingReal.csproj", "{B14A651B-463A-42F3-9F34-0C405942700E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingRealUnitTest1", "GettingRealUnitTest1\GettingRealUnitTest1.csproj", "{0B51BEAD-72EA-420B-9979-B9B7216F4D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B14A651B-463A-42F3-9F34-0C405942700E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14A651B-463A-42F3-9F34-0C405942700E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14A651B-463A-42F3-9F34-0C405942700E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14A651B-463A-42F3-9F34-0C405942700E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B51BEAD-72EA-420B-9979-B9B7216F4D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B51BEAD-72EA-420B-9979-B9B7216F4D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B51BEAD-72EA-420B-9979-B9B7216F4D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B51BEAD-72EA-420B-9979-B9B7216F4D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9608D476-89FE-49BD-B55A-C1D7386D6E30}
+	EndGlobalSection
+EndGlobal
